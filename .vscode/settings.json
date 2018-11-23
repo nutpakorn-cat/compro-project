@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "header.h": "c",
+    "inc.h": "c",
+    "main.h": "c",
+    "function.h": "c",
+    "cli.h": "c",
+    "render-map.h": "c",
+    "function-render-map.h": "c",
+    "function-cli.h": "c",
+    "function-json.h": "c",
+    "function-cson.h": "c"
+  },
+  "C_Cpp.dimInactiveRegions": false
+}
