@@ -9,7 +9,6 @@
 #define FILE_EXTENSION ".pkg"
 
 // Database configuration
-#define DB_NAME "user-data"
 #define DB_URL "CSON/"
 #define DB_EXTENSION ".cson"
 
@@ -17,8 +16,11 @@
 #define __SYSTEM_TEXT 100
 
 // Card configuration
-#define __CARD 100
-#define __CARD_INFO 3
-#define __CARD_INFO_TEXT 100
+#define __CARD_ROW 50
+#define __CARD_INFO 50
+#define __CARD_INFO_TEXT 50
+
+#define __HEADER_ROW 1
+#define __HEADER_INFO 50
 
 #endif

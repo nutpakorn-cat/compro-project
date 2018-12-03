@@ -5,7 +5,9 @@
 #include "function/function-render-map.h"
 #include "function/function-cson.h"
 
+#include "function/function-card.h"
 #include "function/function-cli.h"
+
 
 
 #endif

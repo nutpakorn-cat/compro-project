@@ -9,7 +9,8 @@
     "function-render-map.h": "c",
     "function-cli.h": "c",
     "function-json.h": "c",
-    "function-cson.h": "c"
+    "function-cson.h": "c",
+    "limits": "cpp"
   },
   "C_Cpp.dimInactiveRegions": false
 }
